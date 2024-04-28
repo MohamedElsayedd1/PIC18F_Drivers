@@ -1,6 +1,3 @@
-Sure, here's a template for a GitHub README that covers the PIC18F drivers for ADC, CCP1, CCP2, EEPROM, GPIO, I2C, Interrupt, SPI, Timers, and USART, along with additional peripherals such as LED, LCD, Relay, Keypad, DC Motor, Button, and 7-Segment displays:
-
----
 
 # PIC18F Peripheral Drivers
 
