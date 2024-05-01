@@ -31,7 +31,7 @@ This repository contains drivers for various peripherals commonly used with the 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/pic18f-drivers.git
+   git clone https://github.com/MohamedElsayedd1/pic18f-drivers.git
    ```
 
 2. Include the necessary driver files in your PIC18F project.
